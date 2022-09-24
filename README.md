@@ -1,1 +1,1 @@
-# -RTAGlitch_CookBook
+# Speedrun_Glitch_CookBook
